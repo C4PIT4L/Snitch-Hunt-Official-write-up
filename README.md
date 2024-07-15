@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d8f403f7-d971-400d-bc20-2f95c10b15ec)# Snitch-Hunt-Official-write-up
+# Snitch-Hunt-Official-write-up
 
 Task1: Snitch's Trail
 
