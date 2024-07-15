@@ -44,6 +44,3 @@ And Google found it already on its own
 ![image](https://github.com/user-attachments/assets/73188385-0eff-4f08-9062-67caef5ac898)
 
 
-
-
-דs
